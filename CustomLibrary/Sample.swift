@@ -12,4 +12,9 @@ public class Logging{
     public class func welcome() ->Void{
         print("welcome....")
     }
+    
+    public class func hello() ->Void{
+        print("welcome....")
+    }
+
 }
